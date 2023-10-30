@@ -1,1 +1,1 @@
-Projeto em React usando firebase de um Miniblog, onde o usuário pode criar seu cadastro e postar seus momentos. Disponível no curso de React da Udemy(https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/).
+Projeto em React usando firebase de um Miniblog, onde o usuário pode criar seu cadastro e postar seus momentos. Disponível no curso de React da [Udemy](https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/).
